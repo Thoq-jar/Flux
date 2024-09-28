@@ -9,7 +9,7 @@ banner = """
 
 
 def log(message):
-    print("[Flux] " + message)
+    print("[Flux/build] " + message)
 
 
 def info(config):

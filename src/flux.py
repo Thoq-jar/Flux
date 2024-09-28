@@ -2,7 +2,7 @@ import sys
 
 from flux_cfg import load_flux_config
 from flux_exec import execute_command
-from utils import *
+from flux_utils import *
 
 
 def start():

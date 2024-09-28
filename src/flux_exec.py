@@ -1,6 +1,6 @@
 import subprocess
 
-from utils import *
+from flux_utils import *
 
 
 def execute_command(command):
