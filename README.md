@@ -1,3 +1,3 @@
-# Flux.build
+# Flux/build
 
 Simple build tool / command dispatcher
