@@ -1,0 +1,5 @@
+{
+  "flux": {
+    "test-flux": "echo 'Hello, Flux!'"
+  }
+}
